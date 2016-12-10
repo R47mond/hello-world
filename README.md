@@ -1,2 +1,12 @@
 # hello-world
-"animated-fortnight"
+"!"
+
+. . .
+
+Strange Man: "...Hey there... Going to California?"
+
+. . .
+
+You: "No..."
+
+. . .
